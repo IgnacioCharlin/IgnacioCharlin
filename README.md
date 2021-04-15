@@ -47,16 +47,15 @@
    <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </div>
-<h3 align="left">Para que me conozcas un poquito mas:</h3>
+<div>
+ <h3 align="left">Para que me conozcas un poquito mas:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" height="30" width="40" /></a>
 </p>
+</div>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciocharlin)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocharlin&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocharlin&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocharlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
