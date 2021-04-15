@@ -1,4 +1,5 @@
-sparkling_heart 
+<h1 align="left">Hola 👋, Soy Ignacio Charlin</h1>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciocharlin)](https://github.com/anuraghazra/github-readme-stats)
 
