@@ -7,9 +7,7 @@
 
 <div>
  <h3 align="left">Para que me conozcas un poquito mas:</h3>
-<p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" height="30" width="40" /></a>
-</p>
 </div>
 
 <h3 aling="lef">📝 Lenguajes y herramientas:</h3>
