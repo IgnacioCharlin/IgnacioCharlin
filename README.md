@@ -53,6 +53,9 @@
    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
 </div>
 
+<br/>
+<hr/>
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciocharlin&hide=contribs,prs)
 
