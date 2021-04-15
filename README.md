@@ -1,5 +1,5 @@
 <h1 align="left">Hola 👋, Soy Ignacio Charlin</h1>
-
+<h3 align="left"><div>Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a></div>Soy desarrollador Web, estoy en constante aprendizaje para así poder ser un buen profesional.</h3>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciocharlin)](https://github.com/anuraghazra/github-readme-stats)
 
