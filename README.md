@@ -53,9 +53,9 @@
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/ignacio-gabriel-charlin-2700941b2/" height="30" width="40" /></a>
 </p>
 </div>
-
+<div align="left">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignaciocharlin)](https://github.com/anuraghazra/github-readme-stats)
-
+</div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignaciocharlin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
