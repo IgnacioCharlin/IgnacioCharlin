@@ -1,3 +1,5 @@
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons"
+      rel="stylesheet">
 <h1 align="left">Hola 👋, Soy Ignacio Charlin</h1>
 <h3 align="left">Soy desarrollador Web, estoy en constante aprendizaje para así poder ser un buen profesional.</h3>
 
